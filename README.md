@@ -81,7 +81,7 @@ src
 
 ## 📃 License
 
-This project is licensed under MIT - feel free to fork and customize.
+Feel free to fork and customize.
 
 ---
 
